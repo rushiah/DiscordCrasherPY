@@ -4,8 +4,6 @@ Pretty simple script to make a .mp4 file to reset someone's discord
 [Youtube Tutorial](https:youtube.com/hi)
 
 or
-
-# How to use
 ```py
 git clone https://github.com/2faa/DiscordCrasherPY/
 cd socials
