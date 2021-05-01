@@ -4,6 +4,7 @@ Pretty simple script to make a .mp4 file to reset someone's discord
 ```py
 Python 3
 FFMPEG + Add to path
+https://github.com/GyanD/codexffmpeg/releases/download/4.4/ffmpeg-4.4-essentials_build.zip
 ```
 
 [Youtube Tutorial](https:youtube.com/hi)
