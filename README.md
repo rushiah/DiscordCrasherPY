@@ -7,7 +7,7 @@ FFMPEG + Add to path
 https://github.com/GyanD/codexffmpeg/releases/download/4.4/ffmpeg-4.4-essentials_build.zip
 ```
 
-[Youtube Tutorial](https:youtube.com/hi)
+[Youtube Tutorial](https://www.youtube.com/watch?v=sNT78LgBFlk)
 
 or
 
