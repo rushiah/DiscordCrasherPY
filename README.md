@@ -1,4 +1,4 @@
-Pretty simple script to make a .mp4 file to reset someone's discord
+Pretty simple script to make a .mp4 crash file
 
 #Requirements
 ```py
