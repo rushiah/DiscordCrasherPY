@@ -1,3 +1,16 @@
+
+**THIS NO LONGER WORKS AS DISCORD HAVE FIXED CRASHING GIFS/VIDEOS**
+
+
+
+
+
+
+
+
+###########################################################
+
+
 Pretty simple script to make a .mp4 crash file
 
 #Requirements
